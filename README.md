@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 🔭 A student who is struggling in the field of information systems<br>- 📚 My interest in the world of technology has grown over time, especially in understanding how information systems work and are applied in everyday life.</p>
+<p align="left">- 🔭 a student who is studying about the world of information systems.</p>
 
 ###
 
