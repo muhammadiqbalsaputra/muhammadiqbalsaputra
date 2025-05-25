@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">HALOOO👋</h1>
+<h1 align="center">ALOHA👋</h1>
 
 ###
 
@@ -14,8 +14,7 @@
 
 ###
 
-<!--<p align="left">I'm ... from ....<br>-->
-  <br>- 🔭 A student who is struggling in the field of information systems<br>- 📚 My interest in the world of technology has grown over time, especially in understanding how information systems work and are applied in everyday life.</p>
+<p align="left">- 🔭 A student who is struggling in the field of information systems<br>- 📚 My interest in the world of technology has grown over time, especially in understanding how information systems work and are applied in everyday life.</p>
 
 ###
 
@@ -67,6 +66,14 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadiqbalsaputra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadiqbalsaputra&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 ###
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
