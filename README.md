@@ -75,5 +75,6 @@
 </div>
 
 ###
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteType=random)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
