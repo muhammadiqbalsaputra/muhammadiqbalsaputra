@@ -1,5 +1,4 @@
-# 💫 About Me:
-## 🙋‍♂️ Hi, I'm Muhammad Iqbal Saputra
+# 🙋‍♂️ Hi, I'm Muhammad Iqbal Saputra :
 ⌨️a student who is studying the world of information systems<br>📖My interest in the world of technology has grown over time, especially in understanding how information systems work and are applied in everyday life.
 
 
