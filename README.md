@@ -1,4 +1,4 @@
-**<br clear="both">
+<br clear="both">
 
 <div align="center">
   <img height="150" src="https://media.tenor.com/0dgOsklBXUcAAAAi/dm4uz3-foekoe.gif"  />
@@ -65,15 +65,15 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
-**
+
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadiqbalsaputra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadiqbalsaputra&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadiqbalsaputra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 ###
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
