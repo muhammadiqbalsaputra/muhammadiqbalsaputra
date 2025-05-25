@@ -1,12 +1,10 @@
 <br clear="both">
 
-<div align="center">
-  <img height="150" src="https://media.tenor.com/0dgOsklBXUcAAAAi/dm4uz3-foekoe.gif"  />
-</div>
+<img align="right" height="150" src="https://media.tenor.com/0dgOsklBXUcAAAAi/dm4uz3-foekoe.gif"  />
 
 ###
 
-<h1 align="center">ALOHA👋</h1>
+<h1 align="left">ALOHA👋</h1>
 
 ###
 
