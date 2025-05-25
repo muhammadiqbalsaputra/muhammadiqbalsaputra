@@ -1,6 +1,8 @@
 <br clear="both">
 
-<img align="right" height="150" src="https://media.tenor.com/0dgOsklBXUcAAAAi/dm4uz3-foekoe.gif"  />
+<div align="center">
+  <img height="150" src="https://media.tenor.com/0dgOsklBXUcAAAAi/dm4uz3-foekoe.gif"  />
+</div>
 
 ###
 
