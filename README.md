@@ -75,5 +75,4 @@
 </div>
 
 ###
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in&layout=default&font=default&quoteType=quote-for-the-day)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in&layout=default&font=default&quoteType=random)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
