@@ -33,6 +33,8 @@
 ###
 
 <h3 align="left">🖥️ Learning Tech Stack</h3>
+<h3 align="left">Belum Ada, Masih Enggan Mengoding</h3>
+
 
 ###
 
