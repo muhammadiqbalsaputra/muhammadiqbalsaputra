@@ -33,7 +33,7 @@
 ###
 
 <h3 align="left">🖥️ Learning Tech Stack</h3>
-<h4 align="left">Belum Ada, Masih Enggan Mengoding</h4>
+<h4 align="left">*Belum Ada, Masih Enggan Mengoding</h4>
 
 
 ###
