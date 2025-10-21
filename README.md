@@ -38,7 +38,7 @@
 
 ###
 
-
+<!--
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -56,7 +56,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="12" />
-  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
