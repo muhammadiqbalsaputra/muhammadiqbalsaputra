@@ -78,14 +78,7 @@
 ###
 -->
 
-###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/muhammadiqbalsaputra/muhammadiqbalsaputra/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-###
-
-<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
