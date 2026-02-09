@@ -68,9 +68,9 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 -->
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  /> 
-  <img width="12" /> 
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  /> <br>
   disuruh fauzi, biar move on dari php katanya. anjay~
+  <img width="12" /> 
 <!--
 ###
 <br clear="both">
