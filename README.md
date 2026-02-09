@@ -31,10 +31,10 @@
 </div>
 
 ###
-
+<!--
 <h3 align="left">🖥️ Learning Tech Stack</h3>
 <h4 align="left">*Not Yet, Still Reluctant to Code</h4>
-
+-->
 
 ###
 
